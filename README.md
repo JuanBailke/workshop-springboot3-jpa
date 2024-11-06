@@ -41,6 +41,11 @@ cd backend
 
 Caso encontre algum problema para acessar o site, favor me contatar pelo LinkedIn.
 
+### Agradecimentos
+
+Curso realizado com o professor Nelio Alves
+[Udemy](https://www.udemy.com/course/java-curso-completo/)
+
 # Autor
 
 Juan Felipe Cavalari Bailke
