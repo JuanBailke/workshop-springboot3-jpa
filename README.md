@@ -14,7 +14,7 @@ A aplicação consiste em um sistema de cadastro de usuários, pedidos e compras
 
 # Tecnologias utilizadas
 ## Back end
-- Java
+- Java 17
 - Spring Boot
 - JPA / Hibernate
 - Maven
@@ -22,21 +22,6 @@ A aplicação consiste em um sistema de cadastro de usuários, pedidos e compras
 - Back end: Railway
 - Banco de dados: Postgresql
 
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 17
-
-```bash
-# clonar repositório
-git clone https://github.com/JuanBailke/workshop-springboot3-jpa.git
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
 ## Observação
 
 Caso encontre algum problema para acessar o site, favor me contatar pelo LinkedIn.
